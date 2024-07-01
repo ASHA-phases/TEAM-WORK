@@ -16,7 +16,7 @@ Navigate to the Cloned Repository Directory:
 sh
 Copy code
 cd repository
-Step 2: Push Code to the GitHub Repository
+Step 2: Push Code to the GitHub Repositoryhvghjhjhb
 Make Changes to the Code:
 
 Add, modify, or delete files in your repository.
